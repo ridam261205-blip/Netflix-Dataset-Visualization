@@ -69,7 +69,7 @@ Netflix-Dataset-Visualization/
 ## 🚀 How to Run This Project
 
 1️⃣ Clone this repo  
-   git clone https://github.com/yourusername/Netflix-Dataset-Visualization.git  
+   [git clone https://github.com/yourusername/Netflix-Dataset-Visualization.git](https://github.com/ridam261205-blip/Netflix-Dataset-Visualization.git)  
 
 2️⃣ Install required libraries  
    pip install -r requirements.txt  
